@@ -1,0 +1,32 @@
+[Relay Module] 
+red 4
+yellow 37
+orange 39
+
+[DTS-L300-V2]
+Black :   24(SCE0)
+Yello :   17
+Red   :   19
+Orange:   21
+Brown :   23
+White :   25
+
+[mlx90640]
+# Pin Setup
+# VIN   :   1
+# GND   :   6
+# SCL   :   5
+# SDA   :   3
+
+[Adafruit Lidar]
+Red : 2
+Orange : 8
+Yellow : 10
+Green : 14
+
+
+servoPin_y1 = (36). 32
+servoPin_y2 = (38). 32
+servoPin_p =  . 33
+servoPin_np = 33
+servoPin_ny = 35
